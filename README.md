@@ -1,4 +1,4 @@
-# React Redux Todo List App
+# React Redux Todo List 
 
 A simple and efficient Todo List application built with React and Redux Toolkit. This project serves as a practical example of state management in React using Redux, demonstrating core concepts like slices, reducers, and actions for creating, deleting, and updating tasks.
 
@@ -17,21 +17,6 @@ A simple and efficient Todo List application built with React and Redux Toolkit.
 -   **React-Redux**: Official React bindings for Redux.
 -   **Vite**: A modern frontend build tool that provides a faster and leaner development experience.
 -   **CSS**: Basic styling for a clean and intuitive user interface.
-
-## Project Structure
-
-/src
-├── app
-│ └── store.js # Redux store configuration
-├── components
-│ ├── AddForm.jsx # Component for adding new todos
-│ └── Todo.jsx # Main component to display the todo list
-├── features
-│ └── todo
-│ └── todoSlice.js # Redux slice with reducers and actions for todos
-├── App.css # Main styles for the application
-├── App.jsx # Root App component
-└── main.jsx # Entry point of the application
 
 
 ## Setup and Installation
